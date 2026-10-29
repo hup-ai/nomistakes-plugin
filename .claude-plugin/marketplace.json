@@ -1,0 +1,14 @@
+{
+  "name": "nomistakes",
+  "owner": { "name": "Make No Mistakes" },
+  "metadata": { "description": "Plugins for makenomistakes.sh, the monthly bathroom reader of things people say to their AI." },
+  "plugins": [
+    {
+      "name": "nomistakes",
+      "source": "./plugins/claude-code",
+      "description": "Adds /nomistakes:nomistakes to submit the funniest thing you said to Claude this session to the monthly printed book.",
+      "version": "0.5.0",
+      "category": "fun"
+    }
+  ]
+}

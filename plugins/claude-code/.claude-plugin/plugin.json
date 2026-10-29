@@ -1,0 +1,8 @@
+{
+  "name": "nomistakes",
+  "version": "0.5.0",
+  "description": "Submit the funniest thing you said to your AI this session to the Make No Mistakes book. Adds /nomistakes:nomistakes.",
+  "author": { "name": "Make No Mistakes" },
+  "homepage": "https://makenomistakes.sh",
+  "keywords": ["fun", "humor", "book", "submit"]
+}
