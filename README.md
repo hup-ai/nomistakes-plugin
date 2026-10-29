@@ -3,7 +3,7 @@
 The Claude Code plugin for [Make No Mistakes](https://makenomistakes.sh), the monthly printed book of the ridiculous things we say to get AI to do what we want.
 
 ```
-claude plugin marketplace add hupai/nomistakes-plugin
+claude plugin marketplace add hup-ai/nomistakes-plugin
 claude plugin install nomistakes@nomistakes
 ```
 
